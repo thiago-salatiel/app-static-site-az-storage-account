@@ -1,4 +1,4 @@
 variable "stracctstaticsite" {
     type    = string
-    default = "mystaticsitekb"
+    default = "rm551050_storage"
 }
